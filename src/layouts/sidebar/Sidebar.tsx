@@ -23,8 +23,8 @@ const Sidebar = ({ active, onCancel }: any) => {
           <MenuItem active={true} href="https://google.com">
             {"Home"}
           </MenuItem>
-          <MenuItem href="https://google.com">{"Upcoming"}</MenuItem>
-          <MenuItem href="https://google.com">{"Services"}</MenuItem>
+          <MenuItem href="https://google.com">{"Upcoming drops"}</MenuItem>
+          <MenuItem href="https://google.com">{"Services & ADS"}</MenuItem>
         </SideMenuWrapper>
         <SidebarButtonGroup>
           <Button label="submit collection" fColor="#2a2d3e" />
